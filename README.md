@@ -21,7 +21,7 @@ This lightweight, open-source script automates collecting comprehensive WiFi and
 ## Usage
 1. Double-click `WindowsWiFiDiagnostics.exe` (run as admin if prompted).
 1. The output file (TXT) and copied WLAN report (HTML) will be created in the same directory.
-**Note**: Admin rights are required for most commands. The console auto-closes after 5 seconds, but reports are always saved.
+**Note**: Admin rights are required for most commands. The console auto-closes after 10 seconds, but reports are always saved.
 
 ## List of Commands
 The tool executes and logs:
