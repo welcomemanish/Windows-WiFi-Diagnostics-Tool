@@ -19,33 +19,33 @@ Features
 --Double-click Windows WiFi Diagnostics Tool.exe (run as admin if prompted).
 --Output file will be created under same directory.
 --The console auto-closes after 5 seconds, but the report is always saved.
-Note: Admin rights are required for most network commands.
+**Note**: Admin rights are required for most network commands.
 
 **List of Commands**
-"get-date"
-"ipconfig /all"
-"route print"
-"ping 8.8.8.8"
-"tracert -d -w 400 8.8.8.8"
-"nslookup google.com"
-"netsh winhttp show proxy"
-"ping 8.8.8.8 -f -l 1472"
-"ping 8.8.8.8 -f -l 1500"
-"netsh wlan show drivers"
-"netsh wlan show interfaces"
-"netsh wlan show networks mode=bssid"
-"netsh wlan show wirelesscapabilities"
-"netsh wlan show autoconfig"
-"netsh wlan show filters"
-"netsh wlan show randomization"
-"netsh wlan show tracing"
-"netsh wlan show networks"
-"netsh wlan show profiles"
-"netsh wlan show settings"
-"netsh wlan show hostednetwork"
-"netsh wlan show blockednetworks"
-"netsh wlan show all"
-"netsh wlan show wlanreport"
+--get-date
+--ipconfig /all
+--route print
+--ping 8.8.8.8
+--tracert -d -w 400 8.8.8.8
+--nslookup google.com
+--netsh winhttp show proxy
+--ping 8.8.8.8 -f -l 1472
+--ping 8.8.8.8 -f -l 1500
+--"netsh wlan show drivers
+--netsh wlan show interfaces
+--netsh wlan show networks mode=bssid
+--netsh wlan show wirelesscapabilities
+--netsh wlan show autoconfig
+--netsh wlan show filters
+--netsh wlan show randomization
+--netsh wlan show tracing
+--netsh wlan show networks
+--netsh wlan show profiles
+--netsh wlan show settings
+--netsh wlan show hostednetwork
+--netsh wlan show blockednetworks
+--netsh wlan show all
+--netsh wlan show wlanreport
 
 Contributing
 Feel free to submit issues or feedback! Suggestions for macOS/Linux versions or additional commands are welcome.
