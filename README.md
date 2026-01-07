@@ -7,6 +7,7 @@ A lightweight, open-source PowerShell script designed to collect comprehensive W
 Perfect for IT professionals, network engineers, or anyone troubleshooting wireless connectivity issues, MTU problems, proxy settings, or general network health.
 
 Features
+
 **Automated Diagnostics**: Runs a suite of essential commands to gather WiFi drivers, interfaces, networks, profiles, and more.
 **Additional Network Checks**: Includes IP configuration, routing tables, ping tests (including MTU fragmentation checks), traceroute, DNS lookup, and proxy info.
 **Output Logging**: Saves all results to a file like Windows_WiFi_Diagnostics_YYYYMMDD_HHMMSS.txt in the same directory as the script/EXE.
@@ -16,12 +17,14 @@ Features
 **No Installation Required**: Runs EXE with admin privileges.
 
 **Usage**
+
 --Double-click Windows WiFi Diagnostics Tool.exe (run as admin if prompted).
 --Output file will be created under same directory.
 --The console auto-closes after 5 seconds, but the report is always saved.
 **Note**: Admin rights are required for most network commands.
 
 **List of Commands**
+
 --get-date
 --ipconfig /all
 --route print
